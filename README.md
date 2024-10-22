@@ -2,12 +2,10 @@
 
 ## About Me
 
-I'm a passionate developer from Boston with a focus on full-stack web development, building open-source projects, and learning new technologies.
+I develop full-stack applications in Boston, where my focus is on building open-source projects that solve real-world challenges. My background in health and human service management informs my approach, blending human-centered insights with technical proficiency in Full Stack Development.
 
-I bring a strong background in **health and human service management** and a growing expertise in **Full Stack Development**. I'm a problem-solver, leader, and creative technologist passionate about building solutions that have real-world impact.
-
-- 🌱 **Currently working on**: Full stack projects using **React Native**, **Firebase**, **MERN** stack.
-- 🔭 **Exploring**: Cybersecurity, Machine Learning with **TensorFlow.js**
+- 🌱 **Currently working on**: Fullstack Vite React MongoDB Express Node.js App - MERN Stack [GitHub project](https://github.com/jessicacousins/fullstack_vite_webapp)
+- 🔭 **Exploring**: Cybersecurity, Machine Learning with **TensorFlow.js** [GitHub project](https://github.com/jessicacousins/react_native_tensorflow.js_demo)
 - 💼 **My recent role**: Frontend Developer at Corner League.
 
 ## Contact Me
@@ -23,7 +21,7 @@ I bring a strong background in **health and human service management** and a gro
 I specialize in building applications using the **MERN** stack (MongoDB, Express.js, React.js, Node.js), along with a wide range of other technologies:
 
 - **Languages**: JavaScript, HTML, CSS, Python
-- **Frameworks**: Express, React, React Native, Next.js, GraphQL
+- **Frameworks**: Express, React, React Native, Next.js, GraphQL, TensorFlow.js, Vite, Three.js
 - **Databases**: MongoDB, LowDB, Firebase
 - **Tools**: Docker, AWS S3, Redis, Strapi, Netlify, Heroku, GitHub Actions, Firebase, Postman
 - **Testing**: SuperTest, Jest, Puppeteer
@@ -64,13 +62,13 @@ I specialize in building applications using the **MERN** stack (MongoDB, Express
 - **First Aid CPR AED**
 - **ACE Certified Personal Trainer**
 
-## 🧠 Ongoing Learning
+## Ongoing Learning
 
 I’m always learning! My focus areas include:
 
 - **Machine Learning** with **TensorFlow.js**
 - **App Development** with **React Native Expo**
-- **Advanced JavaScript** and **Cybersecurity**
+- **JavaScript**, **React**, **MongoDB**, and **Cybersecurity**
 
 ---
 
@@ -118,7 +116,7 @@ I’m always learning! My focus areas include:
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jessicacousins&theme=radical&row=1&column=5&title=Commits,Repositories,Experience,Followers)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jessicacousins&theme=radical&row=1&column=5&title=Commits,Repositories)
 
 ## 🔥 Profile Views
 
