@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | MERN Stack | AI Integration | Machine Learning | React Native
 
-**Full Stack Developer** with expertise in building scalable, user-friendly applications that solve real-world challenges. Proficient in the **MERN stack**, **AI integration**, and **machine learning technologies** like **TensorFlow.js**, I bring technical excellence combined with a strong background in high-level management. With over a decade of experience leading teams, driving innovation, and executing strategic initiatives in the healthcare sector, I deliver impactful solutions that merge technology with human-centered design.
+**Full Stack Developer** with expertise in building scalable, user-friendly applications and websites that solve real-world challenges. Proficient in the **MERN stack**, **AI integration**, and **machine learning technologies** like **TensorFlow.js**, I bring technical excellence combined with a strong background in high-level management. With over a decade of experience leading teams, driving innovation, and executing strategic initiatives in the healthcare sector, I deliver impactful solutions that merge technology with human-centered design.
 
 ---
 
