@@ -84,7 +84,7 @@ Key highlights include:
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics 🚀
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicacousins&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacousins&layout=compact&theme=radical)
