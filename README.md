@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Technical Proficiencies
+## Technical Proficiencies
 
 ### Core Technologies:
 
@@ -24,7 +24,7 @@ DockerHub, Redis, Strapi, Swagger, Okta, Auth0, Postman, Travis CI, GitHub Actio
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - **Fullstack Development (MERN)** - MITxPro (Nov 2023)
 - **JavaScript Algorithms & Data Structures** - freeCodeCamp (2022)
@@ -33,7 +33,7 @@ DockerHub, Redis, Strapi, Swagger, Okta, Auth0, Postman, Travis CI, GitHub Actio
 
 ---
 
-## 💼 Career Highlights
+## Career Highlights
 
 ### **Full Stack Developer & AI Innovator**
 
@@ -54,9 +54,9 @@ DockerHub, Redis, Strapi, Swagger, Okta, Auth0, Postman, Travis CI, GitHub Actio
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 💳 [Fullstack MERN E-Commerce & Productivity Platform](https://github.com/jessicacousins/fullstack_vite_webapp)
+### [Fullstack MERN E-Commerce & Productivity Platform](https://github.com/jessicacousins/fullstack_vite_webapp)
 
 Developed a full-stack platform that combines advanced e-commerce functionalities with productivity tools, AI-driven features, and comprehensive management systems. This platform serves as a dynamic and user-friendly solution for a variety of needs, including shopping, gaming, blogging, and administrative tasks. 
 
@@ -78,20 +78,20 @@ Key highlights include:
 
 - Technologies: React, Node.js, Express, MongoDB, Stripe, TensorFlow.js, Firebase Authentication, OpenAI API, Vite.
 
-### 🖼️ [Portfolio Website](https://jessicacousins.tech)
+### [Portfolio Website](https://jessicacousins.tech)
 
 - Designed and built a professional portfolio showcasing technical expertise and featured projects, leveraging **Next.js** and modern CSS for responsiveness.
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicacousins&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacousins&layout=compact&theme=radical)
 
 ---
 
-## 🛠 Tools in Action
+## Tools in Action
 
 ### Key Technologies in Projects:
 
