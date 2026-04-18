@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1220,35:132238,70:1D3557,100:0EA5E9&text=&reversal=false&section=header" alt="" />
+
 # Jessica Cousins
 
 <strong>Full Stack Engineer. AI Builder. Healthcare Tech Leader.</strong>
@@ -19,22 +21,20 @@
 ·
 <a href="https://github.com/jessicacousins/fullstack_vite_webapp">Featured Project</a>
 
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=jessicacousins&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/jessicacousins?style=flat-square&color=1d4ed8&labelColor=0b1220&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/jessicacousins?style=flat-square&color=7c3aed&labelColor=0b1220&label=Stars" alt="GitHub Stars" />
+
 </div>
 
 > Combining technical leadership, healthcare operations experience, and full stack development across healthcare apps, real-time platforms, and AI-powered products.
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=8CC84B)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-0B1220?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-0B1220?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0B1220?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1220?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![React Native](https://img.shields.io/badge/React_Native-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,firebase,graphql,docker,githubactions,aws,tensorflow&theme=dark&perline=6" alt="Core Stack" />
 
 </div>
 
@@ -42,6 +42,13 @@
 | --- | --- | --- | --- |
 | GitHub Repos | Years Leadership | Technologies | Years Coding |
 | All public | Executive level | Full-spectrum stack | Production-grade builds |
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jessicacousins&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5F3FF&text_color=C6D4E1&icon_color=38BDF8&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacousins&layout=compact&hide_border=true&bg_color=00000000&title_color=E5F3FF&text_color=C6D4E1" alt="Top Languages" />
+
+</div>
 
 <table>
   <tr>
@@ -72,61 +79,66 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Backend Signal</strong>
-      <br />
-      <code>node server.js</code>
-      <br />
-      → Listening on <code>http://localhost:3000</code>
-      <br />
-      → MongoDB connected ✓
-      <br />
-      <br />
-      <code>curl localhost:3000/api/health</code>
-      <br />
-      <code>{ "status": "ok", "uptime": "99.9%" }</code>
-      <br />
-      <br />
-      <code>docker compose up --build</code>
-      <br />
-      → Building image layers ✓
-      <br />
-      → Container healthy on <code>:8080</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>AI / Testing / Delivery</strong>
-      <br />
-      <code>python3 train_model.py --epochs 10</code>
-      <br />
-      → Epoch 1/10 loss: 0.4821 acc: 0.61
-      <br />
-      → Epoch 5/10 loss: 0.1203 acc: 0.89
-      <br />
-      → Epoch 10/10 loss: 0.0271 acc: 0.97 ✓
-      <br />
-      <br />
-      <code>openai.chat('Summarise this ticket')</code>
-      <br />
-      → LLM agent streamed 312 tokens (280ms)
-      <br />
-      <br />
-      <code>npx jest --coverage --silent</code>
-      <br />
-      → Tests: 42 passed · 0 failed ✓
-      <br />
-      → Coverage: 94.2%
-      <br />
-      <br />
-      <code>git push origin main</code>
-      <br />
-      → CI/CD pipeline triggered
-      <br />
-      → Deployed to <code>jessicacousins.tech</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<svg width="100%" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering capability panel">
+  <defs>
+    <linearGradient id="panelStroke" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="lineA" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="lineB" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="lineC" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="290" rx="24" fill="#09111F"/>
+  <rect x="10" y="10" width="1180" height="290" rx="24" stroke="url(#panelStroke)" stroke-width="2"/>
+
+  <text x="48" y="54" fill="#E5F3FF" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Engineering Signals</text>
+  <text x="48" y="80" fill="#8FA7BF" font-size="14" font-family="Segoe UI, Arial, sans-serif">backend · ai / ml · testing · delivery</text>
+
+  <rect x="44" y="102" width="530" height="156" rx="18" fill="#0D1728" stroke="#1E293B"/>
+  <rect x="626" y="102" width="530" height="156" rx="18" fill="#0D1728" stroke="#1E293B"/>
+
+  <text x="68" y="132" fill="#D9F4FF" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Backend Signal</text>
+  <text x="68" y="164" fill="#7DD3FC" font-size="14" font-family="Consolas, monospace">node server.js</text>
+  <text x="68" y="186" fill="#D6E4F0" font-size="13" font-family="Consolas, monospace">→ Listening on http://localhost:3000</text>
+  <text x="68" y="208" fill="#D6E4F0" font-size="13" font-family="Consolas, monospace">→ MongoDB connected ✓</text>
+  <text x="68" y="236" fill="#7DD3FC" font-size="14" font-family="Consolas, monospace">curl localhost:3000/api/health</text>
+  <text x="68" y="258" fill="#D6E4F0" font-size="13" font-family="Consolas, monospace">{ "status": "ok", "uptime": "99.9%" }</text>
+
+  <text x="650" y="132" fill="#F2E8FF" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AI / Testing / Delivery</text>
+  <text x="650" y="164" fill="#C4B5FD" font-size="14" font-family="Consolas, monospace">python3 train_model.py --epochs 10</text>
+  <text x="650" y="186" fill="#D6E4F0" font-size="13" font-family="Consolas, monospace">→ Epoch 10/10  loss: 0.0271  acc: 0.97 ✓</text>
+  <text x="650" y="214" fill="#C4B5FD" font-size="14" font-family="Consolas, monospace">openai.chat('Summarise this ticket')</text>
+  <text x="650" y="236" fill="#D6E4F0" font-size="13" font-family="Consolas, monospace">→ LLM agent streamed 312 tokens (280ms)</text>
+  <text x="650" y="264" fill="#C4B5FD" font-size="14" font-family="Consolas, monospace">npx jest --coverage --silent  ·  git push origin main</text>
+
+  <line x1="68" y1="282" x2="342" y2="282" stroke="url(#lineA)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="x2" values="170;342;170" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="650" y1="282" x2="930" y2="282" stroke="url(#lineB)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="x2" values="760;930;760" dur="4.5s" repeatCount="indefinite"/>
+  </line>
+  <line x1="950" y1="282" x2="1128" y2="282" stroke="url(#lineC)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="x1" values="950;1030;950" dur="3.8s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="48" y="286" fill="#8FA7BF" font-size="13" font-family="Segoe UI, Arial, sans-serif">CI/CD pipeline triggered  ·  Deployed to jessicacousins.tech</text>
+</svg>
+
+</div>
 
 <div align="center">
 
@@ -136,19 +148,32 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jessicacousins&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub Trophies" />
+
+</div>
+
 ## Selected Work
 
-**[JMC Community Platform](https://github.com/jessicacousins/fullstack_vite_webapp)**  
-Production MERN platform combining TensorFlow.js image classification, an OpenAI-powered chatbot, Stripe payments, real-time Socket.IO chatrooms, Firebase auth, a blog, and e-commerce — all in one deployable codebase. The most complete demonstration of full-spectrum engineering shipped.
+<div align="center">
 
-**[MERN Chat App](https://github.com/jessicacousins/chatapp_fullstack)**  
-Real-time chat platform with Socket.IO, Firebase Auth, Google & Apple sign-in, public chatrooms, and direct messaging — plus a built-in accessibility toolbar. 
-
-**[Docker CI/CD Pipeline Demo](https://github.com/jessicacousins/docker-pipeline-demo)**  
-GitHub Actions → Docker → DockerHub, fully automated. Clean, production-grade containerisation with continuous integration best practices baked in. Short, does one thing perfectly — exactly what a real engineering team needs.
-
-**[Portfolio](https://jessicacousins.tech)**  
-Combining technical leadership, healthcare operations experience, and full stack development across healthcare apps, real-time platforms, and AI-powered products.
+<a href="https://github.com/jessicacousins/fullstack_vite_webapp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicacousins&repo=fullstack_vite_webapp&hide_border=true&bg_color=00000000&title_color=E5F3FF&text_color=C6D4E1&icon_color=38BDF8" alt="JMC Community Platform" />
+  Production MERN platform combining TensorFlow.js image classification, an OpenAI-powered chatbot, Stripe payments, real-time Socket.IO chatrooms, Firebase auth, a blog, and e-commerce — all in one deployable codebase. The most complete demonstration of full-spectrum engineering shipped.
+</a>
+<a href="https://github.com/jessicacousins/chatapp_fullstack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicacousins&repo=chatapp_fullstack&hide_border=true&bg_color=00000000&title_color=E5F3FF&text_color=C6D4E1&icon_color=8B5CF6" alt="MERN Chat App" />
+  Real-time chat platform with Socket.IO, Firebase Auth, Google & Apple sign-in, public chatrooms, and direct messaging — plus a built-in accessibility toolbar. Most developers skip accessibility entirely. This one ships with it by default.
+</a>
+<a href="https://github.com/jessicacousins/docker-pipeline-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicacousins&repo=docker-pipeline-demo&hide_border=true&bg_color=00000000&title_color=E5F3FF&text_color=C6D4E1&icon_color=F472B6" alt="Docker CI/CD Pipeline Demo" />
+  GitHub Actions → Docker → DockerHub, fully automated. Clean, production-grade containerisation with continuous integration best practices baked in. Short, does one thing perfectly — exactly what a real engineering team needs.
+</a>
+<a href="https://github.com/jessicacousins/ABA_LessonLab_Ollama_Local">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicacousins&repo=ABA_LessonLab_Ollama_Local&hide_border=true&bg_color=00000000&title_color=E5F3FF&text_color=C6D4E1&icon_color=22C55E" alt="ABA Lesson Lab Local AI" />
+</a>
+</div>
 
 ## AI Integration & Team Enablement
 
@@ -161,6 +186,6 @@ Combining technical leadership, healthcare operations experience, and full stack
 
 <div align="center">
 
-<sub>Open to opportunities</sub>
+<sub>Open to leadership opportunities across technology, healthcare, and digital transformation.</sub>
 
 </div>
